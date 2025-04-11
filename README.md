@@ -51,7 +51,7 @@ Next, I used Nslookup "mainframe" to show that it still cannot be found. To reso
 <br />
 
 
-  ![Screenshot (5) client]("https://github.com/user-attachments/assets/29790864-1dc8-4706-b382-caa9f57ebecc")
+  ![Screenshot (5) client](https://github.com/user-attachments/assets/29790864-1dc8-4706-b382-caa9f57ebecc)
   ![Screenshot (6) client](https://github.com/user-attachments/assets/6feff1a0-dcab-422b-8d27-03691419b721)
 
 
